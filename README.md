@@ -5,9 +5,9 @@ Usefull Git Commands for every developer
 | Command | Description |
 | ------- | ----------- |
 | `git config --global user.name`  | Check your name |
-| `git config --global user.name = "Chinthaka Bandara"`  | Set your name |
+| `git config --global user.name = "Your Name"`  | Set your name |
 | `git config --global user.email`  | Check your email |
-| `git config --global user.email = "chinthakapb@gmail.com"`  | Set your email |
+| `git config --global user.email = "Your Email"`  | Set your email |
 | `get help` | Display help information about Git |
 
 
