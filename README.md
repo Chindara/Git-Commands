@@ -16,6 +16,7 @@ Usefull Git Commands for every developer
 | ------- | ----------- |
 | `git init` | Create an empty Git repository in the root directory |
 | `git clone https://github.com/Chindara/Git-Commands.git` | Clone a remote repository into a new directory |
+| `git cline https://github.com/Chindara/Git-Commands.git "<Folder Name>"` | Clone a remote repository into the specified directory |
 
 ### Basic Snapshotting
 | Command | Description |
