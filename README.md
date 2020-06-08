@@ -26,6 +26,14 @@ Usefull Git Commands for every developer
 | `git add -A` | Add all files staging area |
 | `git commit -m "Message"` | Record changes to the repository |
 
+### Branching and Merging
+| Command | Description |
+| ------- | ----------- |
+| `git checkout -b <Branch Name>` | Creates a new branch as `<Branch Name>` and switch to it at the same time |
+
+
+
+
 ### Sharing and Updating Projects
 | Command | Description |
 | ------- | ----------- |
